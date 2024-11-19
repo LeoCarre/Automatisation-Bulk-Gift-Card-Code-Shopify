@@ -135,7 +135,7 @@ status, messages = mail.search(None, 'FROM "[EMAIL SENDER]"')
 ```python
 mail.create('[NOM DU DOSSIER CIBLE]')
 ```
-## Étape 2 : Exécution du script
+### Étape 2 : Exécution du script
 1. Ouvrez un terminal.
 2. Naviguez vers le dossier contenant le script.
 3. Lancez le script :
