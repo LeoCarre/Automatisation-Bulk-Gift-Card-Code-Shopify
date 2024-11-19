@@ -163,7 +163,10 @@ gift_card_codes_2024-11-19_14-30-00.csv
 
 ## Exemple de sortie
 Fichier CSV généré :
-| ID | CODE | LIEN | |----------|:-------------:|------:| | 1| EDF6 F994 GFEF 7266 | https://checkout.shopify.com/gift_cards/62740070559/abc12345 | |----------|:-------------:|------:| | 2| GH78 JKL9 MNO1 P234 | https://checkout.shopify.com/gift_cards/62740070559/xyz98765 |
+| ID | CODE | LIEN | 
+|--|:-------------------:|-----------------------------------------------------------:| 
+| 1| EDF6 F994 GFEF 7266 | https://checkout.shopify.com/gift_cards/62740070559/abc12345 | 
+| 2| GH78 JKL9 MNO1 P234 | https://checkout.shopify.com/gift_cards/62740070559/xyz98765 |
 
 ## Limitations
 1. Les emails non conformes au format attendu seront ignorés.
