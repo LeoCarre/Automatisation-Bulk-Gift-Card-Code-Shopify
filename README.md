@@ -25,6 +25,7 @@ Extraction directe des emails, car elle répond aux besoins tout en automatisant
 ## Grande Étape 1 Création des 1100 Cartes Cadeaux dans Shopify
 ## Outil utilisé : Matrixify
 Pour créer en masse les 1100 cartes cadeaux dans Shopify, nous avons utilisé Matrixify, un outil puissant permettant d'importer et de gérer des données en masse dans Shopify.
+Lien : [Import Gift Card Products to Shopify](https://matrixify.app/tutorials/import-gift-card-products-to-shopify/)
 
 ### Étape 1 : Préparation du fichier d'import
 Un fichier Excel a été préparé avec les informations nécessaires pour la création des cartes cadeaux, notamment :
